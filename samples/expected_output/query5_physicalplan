@@ -1,0 +1,3 @@
+Project[*]
+-Select[Sailors.B >= Sailors.C]
+--TableScan[Sailors]

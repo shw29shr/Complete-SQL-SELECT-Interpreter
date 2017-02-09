@@ -1,0 +1,4 @@
+Project[*]
+-BNLJ[]
+--TableScan[TestTable3]
+--TableScan[TestTable4]

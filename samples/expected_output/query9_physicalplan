@@ -1,0 +1,6 @@
+Project[*]
+-SMJ[Sailors.A = Reserves.G]
+--InMemSort[0]
+---TableScan[Sailors]
+--InMemSort[0]
+---TableScan[Reserves]

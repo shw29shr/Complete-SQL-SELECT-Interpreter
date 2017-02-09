@@ -1,0 +1,6 @@
+Project[*]
+-Join[]
+[[Reserves.G], equals 4, min 4, max 4]
+--Select[Reserves.G = 4]
+---Leaf[Reserves]
+--Leaf[Boats]

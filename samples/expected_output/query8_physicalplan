@@ -1,0 +1,5 @@
+Project[*]
+-BNLJ[]
+--Select[Reserves.G = 4]
+---TableScan[Reserves]
+--TableScan[Boats]

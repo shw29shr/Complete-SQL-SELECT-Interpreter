@@ -1,0 +1,4 @@
+Project[*]
+-BNLJ[TestTable3.N < Boats.D]
+--TableScan[TestTable3]
+--TableScan[Boats]
